@@ -1,0 +1,5 @@
+Day 1 
+Building an BMI calculator using html and js
+objectives :
+  - calculate bmi from height and weight
+  - classify bmi [underwight,normal,overweight,obese]
