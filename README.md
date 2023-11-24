@@ -23,7 +23,7 @@ The purpose of this challenge is to:
 
 Below is a list of projects I aim to complete during this challenge:
 
-1. Project 1: [BMI Calulator]("https://github.com/midhun-r/100Days_of_Code/blob/main/BMI_Calculator")
+1. Project 1: [BMI Calulator](https://github.com/midhun-r/100Days_of_Code/blob/main/BMI_Calculator)
 
 
 Feel free to join me on this coding journey, and let's learn and grow together! 💻✨
