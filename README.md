@@ -24,6 +24,7 @@ The purpose of this challenge is to:
 Below is a list of projects I aim to complete during this challenge:
 
 1. Project 1: [BMI Calulator](https://github.com/midhun-r/100Days_of_Code/blob/main/BMI_Calculator)
+2. Project 2: [Random_PassWord_enerator](https://github.com/midhun-r/100Days_of_Code/blob/8adb70cd77de099568c4e35c2b359e9a7efb0ee5/Random_PassWord_Generator)
 
 
 Feel free to join me on this coding journey, and let's learn and grow together! 💻✨
